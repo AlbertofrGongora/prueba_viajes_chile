@@ -1,0 +1,9 @@
+.bg-black {
+    background-color: black;
+    color: white;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+  }
+  .btn-bottom {
+    margin-top: 20px; 
+  }
+
